@@ -6,7 +6,6 @@
     grid-gap: 0.5rem;
     width: 300px;
 }
-
 .img {
     display: grid;
     grid-area: img;
@@ -19,19 +18,16 @@
     background-color: saddlebrown;
     margin: 0.5rem 0.5rem 0.5rem 0;
     padding: 0.5rem;
-    border-radius: 3px;
+    border-radius: 10px 10px 10px 0;
 }
-
 .name {
     color: wheat;
 }
-
 .textMessage {
     display: grid;
     grid-area: text;
     color: lightgreen;
 }
-
 .time {
     display: grid;
     color: antiquewhite;
